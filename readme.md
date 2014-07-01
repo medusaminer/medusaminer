@@ -27,15 +27,4 @@ Notes
 ======================
 - Config File is pretty self explanatory, if you have any questions contact Archiwall on litecointalk.org or email medusaminer@gmx.co.uk
 
-======================
-API - Not Finished
-======================
 
-All API Requests are to be sent to the listening port using a GET request, an will be displayed in what format you chose in the config file
-
-All Stats: http://127.0.0.1:7788/api/all
-Temperature: http://127.0.0.1:7788/api/temperature
-Hashrate: http://127.0.0.1:7788/api/hashrate
-Shares: http://127.0.0.1:7788/api/shares
-Settings: http://127.0.0.1:7788/api/settings
-Messages: http://127.0.0.1:7788/api/messages
