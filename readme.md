@@ -8,8 +8,7 @@ This takes the confusion out of choosing a miner when you are new to the crypto 
 
 We are trying to make a full featured miner with your help and suggestions. If you have any suggestions please contact Archiwall on litecointalk.org or email medusaminer@gmx.co.uk
 
-Open Source - This project will be going open source once we have reached version 1.0.0, the reason behind this is plagiarism, We have made software before and had it re-released under a different name at the early stages of development.
-we want this miner to be complete before we release the source. I hope you can all understand this.
+You may notice we have used alot of drivers from CGMiner, This is to save time to rewrite what has already been done.
 
 ======================
 Changes in 0.1.0
