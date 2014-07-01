@@ -17,7 +17,7 @@ Changes in 0.1.0
 + Complete Rewrite of program for speed and stability.
 + 64-Bit Compatability
 + Support for medusa's own style config file. INI style - Recommended Use
-+ Support for SGMiner/medusaminer Configs
++ Support for SGMiner/CGMiner Configs
 + More documentation (This has been lacking, sorry)
 + Full API
 + Support for Growl/Prowl/WSM/email to receive messages if hardware failure (Looking to add SMS to that list)
